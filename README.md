@@ -5,4 +5,4 @@
   * 🔭 I’m currently working on: [monty](https://github.com/mental32/monty) & [zedmq](https://github.com/mental32/zedmq)
   * 🌱 I’m currently learning about: [llvm](https://llvm.org/docs/) and [risc-v](https://riscv.org/)
   * 📫 How to reach me: mentalfoss@gmail.com
-  * 🎥 I now [stream on twitch](https://www.twitch.tv/0xmental) most days! (GMT+3 from 8pm)
+  * 🎥 I now [stream on twitch](https://www.twitch.tv/0xmental) most days! (GMT+3 from 9pm)
