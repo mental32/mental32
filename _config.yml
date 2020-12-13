@@ -22,9 +22,10 @@ title: Yoohoo
 email: mentalfoss@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   I'm trying to start a blog, am I doing it right?
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: /
+url: http://mental32.github.io
 github_username:  mental32
+root: /octo-5
 
 # Build settings
 theme: minima
