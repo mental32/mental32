@@ -14,3 +14,4 @@ Presently learning about, and loving!, networking topics. BGP, SD-WAN, NFV, etc.
 [![mental's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mental32&layout=compact&hide=javascript&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
   * 📫 How to reach me: `mentalfoss@gmail`
+  * 🐘 <a rel="me" href="https://mastodon.online/@mental32">Mastodon</a>
