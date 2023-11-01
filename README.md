@@ -6,7 +6,7 @@ Software Engineer, Networking Enthusiast, Git Geek.
 
 I value clean, efficient, software design. Python, C, Go, Rust, etc...
 
-I like working on: networking topics (e.g. BGP, SD-WAN, NFV), distributed systems, and high-frequency trading systems.
+I like working on: networking topics (e.g. BGP, SD-WAN, NFV), distributed systems, and trading systems.
 
 While my GitHub hosts several of my side projects, much of my professional work remains proprietary or private, I use Github to graveyard old side-projects.
 
