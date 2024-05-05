@@ -13,5 +13,6 @@ You can reach me by email at `mentalfoss@gmail`
 A quote I like:
 
  > If you don't know how compilers work, then you don't know how computers work. If you're not 100% sure whether you know how compilers work, then you don't know how they work.
+ > ~ [Steve Yegge](https://steve-yegge.blogspot.com/2007/06/rich-programmer-food.html?)
 
 [![mental's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mental32&layout=compact&hide=javascript&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
