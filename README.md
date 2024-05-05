@@ -2,19 +2,15 @@
 
 About Me:
 
-Software Engineer, Networking Enthusiast, Git Geek.
+* Software Engineer, Networking Enthusiast, Git Geek.
+* I value clean, efficient, software design. (Work done in: Rust, Go, C, Python etc...)
+* I like working on: networking topics (e.g. BGP, SD-WAN, NFV), distributed systems, and trading systems.
 
-I value clean, efficient, software design. Python, C, Go, Rust, etc...
-
-I like working on: networking topics (e.g. BGP, SD-WAN, NFV), distributed systems, and trading systems.
-
-While my GitHub hosts several of my side projects, much of my professional work remains proprietary or private, I use Github to graveyard old side-projects.
+My GitHub profile is home several of hobby projects. My professional work remains proprietary and private, I use Github to graveyard old side-projects.
 
 You can reach me by email at `mentalfoss@gmail`
 
-<hr>
-
-Quote of the day:
+A quote I like:
 
  > If you don't know how compilers work, then you don't know how computers work. If you're not 100% sure whether you know how compilers work, then you don't know how they work.
 
