@@ -1,8 +1,11 @@
-![Animated SVG title card](./readme.svg)
-<!-- Credit to the SVG goes to https://github.com/nikolalsvk/nikolalsvk/blob/main/welcome.svg -->
+<!-- ![Animated SVG title card](./readme.svg) Credit to the SVG goes to https://github.com/nikolalsvk/nikolalsvk/blob/main/welcome.svg -->
 
-* Software Engineer, Networking Enthusiast, Git Geek.
-* I value clean, efficient, software design.
-* I like working on: networking topics (e.g. BGP, SD-WAN, NFV), embedded systems, and trading systems.
+Hey, I'm Chris and you may not find much from me, here.
 
-My GitHub profile is home several hobby projects. My professional work remains proprietary and private.
+<hr>
+
+Always test before you deploy otherwise this squirrel would like to have a word!
+
+![img](https://i.natgeofe.com/n/c0e0a134-3e97-4b8f-9f7b-9d11f5e1bf02/comedy-wildlife-awards-squirel-stop.jpg)
+
+credit: Photograph by Mary McGowan, CWPA/Barcroft Images
