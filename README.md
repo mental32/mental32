@@ -1,5 +1,5 @@
 <!-- ![Animated SVG title card](./readme.svg) Credit to the SVG goes to https://github.com/nikolalsvk/nikolalsvk/blob/main/welcome.svg -->
 
-![img](https://ichef.bbci.co.uk/news/1024/cpsprodpb/01BC/production/_104444400_bm_06130083.jpg.webp)
+![Image of a Polar Bear Looking Through a Photographers Lens](https://ichef.bbci.co.uk/news/1024/cpsprodpb/08C4/production/_104444220_0370d30b-295c-43f4-9a02-310fae1b34bb.jpg.webp)
 
-credit: Geert Weggen/CWPA/Barcroft Images, Geert Weggen photographed this red squirrel doing the splits in Sweden.
+credit: Roie Galitz/CWPA/Barcroft Images; Roie Galitz spotted this budding photographer in Svalbard
